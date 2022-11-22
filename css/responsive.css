@@ -1,0 +1,32 @@
+@media only screen and (max-width: 1456px){
+    .explore_our_serving_industry{
+        padding: 40px 80px;
+    }
+}
+
+@media only screen and (max-width: 1399px){
+    .explore_our_serving_industry{
+        padding: 40px 60px;
+    }
+    .explore_our_serving_industry .industry_list{
+        max-width: 890px;
+    }
+}
+
+@media only screen and (max-width: 1199px){
+    .explore_our_serving_industry{
+        padding: 40px;
+    }
+}
+
+@media only screen and (max-width: 1024px){
+    .explore_our_serving_industry .industry_list{
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    .explore_our_serving_industry{
+        padding: 40px 20px;
+    }
+}
